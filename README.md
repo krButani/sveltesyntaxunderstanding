@@ -6,3 +6,5 @@
 - Also Create an Event Dispatcher. Which is help to send data to parent component.
 
 -- Here I don't used any store.
+
+![alt text](output.png)
