@@ -8,4 +8,4 @@
 -- Here I don't used any store.
 
 
-![Output](output.png)
+![Learn Svelte and understanding syntax](output.png)
