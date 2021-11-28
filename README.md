@@ -7,4 +7,5 @@
 
 -- Here I don't used any store.
 
-![alt text](output.png)
+
+![Output](output.png)
